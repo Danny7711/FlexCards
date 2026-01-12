@@ -10,4 +10,32 @@ body{
     padding: 40px;
     border-radius: 32px;
 }
+.card-block{
 
+}
+
+.badge{
+    background-color: #191919;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 400px;
+    line-height: 27px;
+    width: fit-content;
+    padding: 0 16px;
+    border-radius: 6px;
+    margin-bottom: 48px;
+}
+
+.episode {
+    color: #118da8;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.title {
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 70.4px;
+    color: #fff;
+}
