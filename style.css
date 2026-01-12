@@ -1,6 +1,7 @@
 body{
     
     margin-top: 50px;
+    font-family: sans-serif;
 }
 .card {
     background-color: black;
@@ -105,3 +106,4 @@ body{
     line-height: 100%;
     padding: 21px 106px;
 }
+
