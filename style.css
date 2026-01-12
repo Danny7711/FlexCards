@@ -1,6 +1,13 @@
+body{
+    
+    margin-top: 50px;
+}
 .card {
     background-color: black;
     display: flex;
     align-items: center;
     gap: 53px;
+    padding: 40px;
+    border-radius: 32px;
 }
+
