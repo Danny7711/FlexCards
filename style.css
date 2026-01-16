@@ -107,3 +107,35 @@ body{
     padding: 21px 106px;
 }
 
+.card3 {
+width: 360px;
+
+
+}
+
+.forPadding {
+    padding: 16px 16px;
+
+}
+
+.name1 {
+color: #009af0 ;
+font-weight: 700;
+font-size: 20px;
+line-height: 100%;
+margin-bottom: 16px;
+}
+
+.content{
+ color: #202842 ;
+ font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+margin-bottom: 16px;
+
+}
+
+.block {
+
+
+}
