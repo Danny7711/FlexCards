@@ -175,3 +175,51 @@ line-height: 13px;
     border: none;
 }
 
+.card4{
+    width: 380px;
+}
+
+.box1{
+    padding: 50px 89px 50px 44px;
+
+}
+
+.title1{
+    color: #2e363e;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 143%;
+    margin-bottom:12px;
+
+}
+.description{
+     color: #2e363e;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    margin-bottom:24px;
+}
+
+.cost{
+    color: #434853;
+    font-weight:500 ;
+    font-size: 24px;
+    line-height: 150%;
+    margin-bottom: 14px;
+}
+.button4{
+    background-color: #fed84c;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 152%;
+    border: none;
+    border-radius: 8px;
+    padding: 20px 40px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
