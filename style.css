@@ -61,7 +61,7 @@ body{
 }
 
 .card2 {
-    padding: 20px 20px 30px 20px;
+    padding: 16px 8px 20px 20px;
     background-color: #E1EDE6;
     width: fit-content;
 }
@@ -100,9 +100,9 @@ body{
     color: #598d66;
     background-color: transparent;
       font-weight: 500;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 100%;
-    padding: 21px 106px;
+    padding: 20px 60px 20px 60px;
 }
 
 
