@@ -147,6 +147,64 @@ body{
     border-radius: 8px;
     padding: 20px 40px;
 }
+.card5 {
+    width: 320px;
+    padding: 16px 8px ;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #020617, #020617cc);
+    color: #e5e7eb;
+    font-family: Inter, Arial, sans-serif;
+}
+
+
+.card5-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 14px;
+}
+
+
+.card5-avatar img {
+    border-radius: 50%;
+    display: block;
+}
+
+.card5-dots {
+    padding: 6px;
+    border-radius: 6px;
+    transition: background 0.3s ease;
+}
+
+.card5-dots:hover {
+    background: rgba(255, 255, 255, 0.08);
+}
+
+
+.card5-title {
+    font-size: 18px;
+    margin-bottom: 6px;
+}
+
+.card5-name {
+    font-size: 14px;
+    color: #809FB8;
+    margin-bottom: 12px;
+}
+
+.card5-name span {
+    color: #94a3b8;
+    font-weight: 400;
+    margin-left: 6px;
+}
+
+.card5-text {
+    font-size: 13px;
+    line-height: 1.6;
+    color: #cbd5f5;
+}
+
+
 
 .flex{
     display: flex;
