@@ -151,6 +151,7 @@ body{
 .card5 {
     width: 320px;
     padding: 20px ;
+    background: #0b1220;
     border-radius: 16px;
     color: #e5e7eb;
     font-family: Inter, Arial, sans-serif;
@@ -182,18 +183,19 @@ body{
 
 
 .card5-title {
+    color: #ffffff;
     font-size: 18px;
     margin-bottom: 6px;
 }
 
 .card5-name {
     font-size: 14px;
-    color: #809FB8;
+    color: #9fb3c8;
     margin-bottom: 12px;
 }
 
 .card5-name span {
-    color: #94a3b8;
+    color: #cbd5f5;
     font-weight: 400;
     margin-left: 6px;
 }
@@ -201,7 +203,7 @@ body{
 .card5-text {
     font-size: 13px;
     line-height: 1.6;
-    color: #cbd5f5;
+    color: #e2e8f0;
 }
 
 
