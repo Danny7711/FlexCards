@@ -61,9 +61,9 @@ body{
 }
 
 .card2 {
-    padding: 16px 8px 20px 20px;
+    padding:20px;
     background-color: #E1EDE6;
-    width: fit-content;
+    width: 260px;
 }
 .author{
     color: #86928B;
@@ -108,10 +108,11 @@ body{
 
 .card4{
     width: 380px;
+    background-color: #fff;
 }
 
 .box1{
-    padding: 50px 89px 50px 44px;
+    padding: 30px;
 
 }
 
@@ -149,9 +150,8 @@ body{
 }
 .card5 {
     width: 320px;
-    padding: 16px 8px ;
+    padding: 20px ;
     border-radius: 16px;
-    background: linear-gradient(180deg, #020617, #020617cc);
     color: #e5e7eb;
     font-family: Inter, Arial, sans-serif;
 }
@@ -208,7 +208,7 @@ body{
 
 .flex{
     display: flex;
-    justify-content: space-between;
+    gap: 30px;
     align-items: center;
     margin-top: 20px;
 }
